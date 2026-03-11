@@ -1,0 +1,12 @@
+team:
+  class_name: "Robotics 1"
+  school_year: "2026"
+  teacher: "TBD"
+  student_groups:
+    - "Team A"
+    - "Team B"
+
+project:
+  focus: "Humanoid robot simulation"
+  final_demo_week: 8
+  hardware_target: "Unitree G1 (future integration)"

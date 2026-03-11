@@ -1,0 +1,13 @@
+name: robotics-humanoid-course
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - pytorch
+  - pip
+  - pip:
+      - gymnasium[mujoco]
+      - stable-baselines3
